@@ -2,6 +2,8 @@
 void thisIsANewMethod() {
 <<<<<<< HEAD
   std::cout << "This is the line of Michael!\n";
+  int bugFix = 5;
+  std::cout << "4 * bugfix = " << bugfix * 4 << std::endl; 
 =======
 	std::cout << "This is the line of Pascal" << std::endl;
 	
