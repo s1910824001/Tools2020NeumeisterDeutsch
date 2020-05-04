@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-void thisIsANewMethod() {}
+void thisIsANewMethod() {
+  std::cout << "This is the line of Michael!\n";
+}
 =======
 #inlcude <iostream>
 
