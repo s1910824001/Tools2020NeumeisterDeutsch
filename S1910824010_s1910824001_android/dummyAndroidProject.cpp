@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-void thisIsANewMethod() {}
+void thisIsANewMethod() {
+	std::cout << "This is the line of Pascal" << std::endl;
+}
 =======
 #inlcude <iostream>
 
